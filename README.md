@@ -29,9 +29,11 @@
 ![gambar9](ss/ss9.png)
 
 Berikut adalah tampilan program seluruhnya :
+
 ![gambar10](ss/ss10.png)
 
 Dan ini tampilan hasil program ketika di jalankan :
+
 ![gambar11](ss/ss11.png)
 
 ### Selesai
