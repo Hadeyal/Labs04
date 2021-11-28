@@ -8,7 +8,7 @@
 ![gambar2](ss/ss2.png)
 ### Ketiga
     Mengambil nilai yang element ke-2 sampai element ke-4, seperti gambar di bawah ini :
-![gambar3](ss/ss3.[png])
+![gambar3](ss/ss3.png)
 ### Keempat
     Mengambil element terakhir, seperti gambar dibawah ini :
 ![gambar4](ss/ss4.png)
