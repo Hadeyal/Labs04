@@ -2,37 +2,37 @@
 ## Latihan
 ### Pertama 
     Kita harus membuat list sebanyak 5 element dengan nilai bebas, seperti pada gambar dibawah ini :
-!.[gambar1].(ss/ss1.png)
+![gambar1](ss/ss1.png)
 ### Kedua 
     Menampilkan element ke-3 sesuai perintah tugas yang diberikan, seperti gambar dibawah ini :
-!.[gambar2].(ss/ss2.png)
+![gambar2](ss/ss2.png)
 ### Ketiga
     Mengambil nilai yang element ke-2 sampai element ke-4, seperti gambar di bawah ini :
-!.[gambar3].(ss/ss3.[png])
+![gambar3](ss/ss3.[png])
 ### Keempat
     Mengambil element terakhir, seperti gambar dibawah ini :
-!.[gambar4].(ss/ss4.png)
+![gambar4](ss/ss4.png)
 ### Kelima
     Mengubah element ke-4 dengan nilai lainnya, seperti gambar dibawah ini :
-!.[gambar5].(ss/ss5.png)
+![gambar5](ss/ss5.png)
 ### Keenam
     Mengubah element ke-4 samapai  element terakhir, seperti gambar dibawah ini :
-!.[gambar6].(ss/ss6.png)
+![gambar6](ss/ss6.png)
 ### Ketujuh
     Mengambil 2 bagian dari list pertama dan di jadikan list kedua, seperti gambar dibawah ini :
-!.[gambar7].(ss/ss7.png)
+![gambar7](ss/ss7.png)
 ### Kedelapan
     Menambah list ke-2 dengan 3 nilai, seperti gambar dibawah ini :
-!.[gambar8].(ss/ss8.png)
+![gambar8](ss/ss8.png)
 ### Kesembilan 
     Menggabungkan list pertama dengan list kedua, seperti gambar dibawah ini :
-!.[gambar9].(ss/ss9.png)
+![gambar9](ss/ss9.png)
 
 Berikut adalah tampilan program seluruhnya :
-!.[gambar10].(ss/ss10.png)
+![gambar10](ss/ss10.png)
 
 Dan ini tampilan hasil program ketika di jalankan :
-!.[gambar11].(ss/ss11.png)
+![gambar11](ss/ss11.png)
 
 ### Selesai
 
@@ -41,10 +41,10 @@ Dan ini tampilan hasil program ketika di jalankan :
 ### Membuat List Nilai Mahasiswa
 ### Pertama 
     saya akan membuat flowchart terlebih dahulu untuk mempermudah tugas praktikum ini, seperti gambar dibawah :
-!.[gambar12].(ss/ss12.png)
+![gambar12](ss/ss12.png)
 ### Kedua 
     Membuat program untuk list nilai mahasiswa, seperti gambar dibawah ini :
-!.[gambar13].(ss/ss13.png)
+![gambar13](ss/ss13.png)
 ### Ketiga
     KETERANGAN
     ```python 
